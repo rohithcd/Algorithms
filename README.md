@@ -1,2 +1,2 @@
 # Algorithms
-Searching, Sorting programs written completely using Java
+Basic Algorithms like sorting, searching written in Python 
